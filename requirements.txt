@@ -1,0 +1,6 @@
+Flask
+PyPDF2
+numpy
+sentence-transformers
+google-generativeai
+Werkzeug
